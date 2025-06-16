@@ -4,7 +4,7 @@ title: I'm Patricia Brooks
 hide: true
 ---
 
-Hi! My name is Patricia Brooks
+Hello! My name is Patricia Brooks. I enjoy playing golf.
 
 ### Development Environment
 
