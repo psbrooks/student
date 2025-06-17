@@ -5,9 +5,10 @@ permalink: /about/
 comments: true
 ---
 
-## As a conversation Starter
+## Patricia Brooks
 
-Here are some places I have lived.
+I enjoy **food** **math** and **dogs**
+![image.png]({{site.baseurl}}/images/dog.jpeg)
 
 <comment>
 Flags are made using Wikipedia images
